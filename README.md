@@ -50,3 +50,15 @@ Saya Khalifa Nabil Nur dengan NIM 2511372, mengerjakan Tugas Praktikum 3 dalam m
     - Menyimpan ke Array/Vector/List via Composition
 4. User Memilih Selesai (Keluar dari Menu Loop)
 5. Menampilkan Kondisi Akhir (Daftar Lengkap Setelah Data Film Ditambahkan)
+
+## DOKUMENTASI SEBELUM HARDCODE DATA
+<img width="728" height="313" alt="image" src="https://github.com/user-attachments/assets/183f9fa2-fb56-4830-bed7-1c0140925577" />
+
+## BUKTI PROGRAM CPP BERJALAN
+<img width="995" height="954" alt="image" src="https://github.com/user-attachments/assets/d065c521-a1b9-42a9-980d-9194a0a49da4" />
+
+## BUKTI PROGRAM PYTHON BERJALAN
+<img width="963" height="943" alt="image" src="https://github.com/user-attachments/assets/266fd0f8-da4d-4dc3-948c-30ad1d3e787b" />
+
+
+
