@@ -60,5 +60,9 @@ Saya Khalifa Nabil Nur dengan NIM 2511372, mengerjakan Tugas Praktikum 3 dalam m
 ## BUKTI PROGRAM PYTHON BERJALAN
 <img width="963" height="943" alt="image" src="https://github.com/user-attachments/assets/266fd0f8-da4d-4dc3-948c-30ad1d3e787b" />
 
+## BUKTI PROGRAM JAVA BERJALAN
+<img width="992" height="914" alt="image" src="https://github.com/user-attachments/assets/615ad324-908c-4f9a-a235-4d855dec54f4" />
+
+
 
 
